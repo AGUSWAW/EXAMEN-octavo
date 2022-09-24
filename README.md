@@ -1,2 +1,0 @@
-# Examen-octavo
-exam
